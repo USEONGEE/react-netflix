@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/react-netflix/static/css/main.ef8ed00c.css",
-    "main.js": "/github.io/react-netflix/static/js/main.83b4ed77.js",
-    "static/js/787.7d8a7a6f.chunk.js": "/github.io/react-netflix/static/js/787.7d8a7a6f.chunk.js",
-    "index.html": "/github.io/react-netflix/index.html",
-    "main.ef8ed00c.css.map": "/github.io/react-netflix/static/css/main.ef8ed00c.css.map",
-    "main.83b4ed77.js.map": "/github.io/react-netflix/static/js/main.83b4ed77.js.map",
-    "787.7d8a7a6f.chunk.js.map": "/github.io/react-netflix/static/js/787.7d8a7a6f.chunk.js.map"
+    "main.css": "/react-netflix/static/css/main.ef8ed00c.css",
+    "main.js": "/react-netflix/static/js/main.44df3f25.js",
+    "static/js/787.7d8a7a6f.chunk.js": "/react-netflix/static/js/787.7d8a7a6f.chunk.js",
+    "index.html": "/react-netflix/index.html",
+    "main.ef8ed00c.css.map": "/react-netflix/static/css/main.ef8ed00c.css.map",
+    "main.44df3f25.js.map": "/react-netflix/static/js/main.44df3f25.js.map",
+    "787.7d8a7a6f.chunk.js.map": "/react-netflix/static/js/787.7d8a7a6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef8ed00c.css",
-    "static/js/main.83b4ed77.js"
+    "static/js/main.44df3f25.js"
   ]
 }
